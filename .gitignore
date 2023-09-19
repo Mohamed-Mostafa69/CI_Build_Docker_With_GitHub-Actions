@@ -1,5 +1,5 @@
-*~
-
 .env
 books.zip
 requirements.txt
+/venv
+venv
