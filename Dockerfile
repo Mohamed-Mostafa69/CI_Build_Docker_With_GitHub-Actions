@@ -5,7 +5,7 @@ EXPOSE 8000
 # Keeps Python from generating .pyc files in the container
 ENV PYTHONDONTWRITEBYTECODE=1
 
-# Turns off buffering for easier container logging
+# Turns off buffering for easier container logging xxxxxxx
 ENV PYTHONUNBUFFERED=1
 
 COPY requirements.txt .
